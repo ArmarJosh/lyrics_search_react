@@ -1,3 +1,7 @@
+## Uses the musixmatch API to get the lyrics
+
+All tracks are fetched from [www.musixmatch.com](www.musixmatch.com) for learning.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
